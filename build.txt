@@ -1,0 +1,10 @@
+author = Qelifern
+
+version = 0.15.5
+displayName = Swag Mod Remastered
+homepage = https://tmodloader.net/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

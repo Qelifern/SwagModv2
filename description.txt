@@ -1,0 +1,12 @@
+Swag Mod Remastered is a recreation of Swag Mod.
+Currently adds:
++58 New Items, Weapons and Armour.
++35 Different Projectiles.
++6 New Buffs and Debuffs.
++1 Town NPC.
++9 Blocks and Placeables.
+Features World Generation, only spawns ore after you have killed Moon Lord.
+Many Weapons are inspired by other games, effects of which have been inplmented in a Terraria way.
+This mod is meant to played along side Vanilla Terraria and a few Quality of Life mods.
+Calamity Mod's Revengance Mode currently makes Moon Lord not spawn Swag Mod's post-Moon Lord ore.
+However for the progression of the Calamity Mod this is good news since many of the weapons that can be crafted after Moon Lord in Swag Mod are pretty overpowered.
