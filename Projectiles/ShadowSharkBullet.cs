@@ -55,7 +55,7 @@ namespace SwagModv2.Projectiles
                 {
                     float num477 = projectile.Center.X;
                     float num478 = projectile.Center.Y;
-                    float num479 = 400f;
+                    float num479 = 500f;
                     bool flag17 = false;
                     int num3;
                     for (int num480 = 0; num480 < 200; num480 = num3 + 1)
@@ -77,8 +77,8 @@ namespace SwagModv2.Projectiles
                     }
                     if (flag17)
                     {
-                        float num488 = 24f + Main.rand.NextFloat(6);
-                        num488 = 24f + Main.rand.NextFloat(6);
+                        float num488 = 192f + Main.rand.NextFloat(6);
+                        num488 = 192f + Main.rand.NextFloat(6);
                         Vector2 vector38 = new Vector2(projectile.position.X + (float)projectile.width * 0.5f, projectile.position.Y + (float)projectile.height * 0.5f);
                         float num489 = num477 - vector38.X;
                         float num490 = num478 - vector38.Y;

@@ -1,8 +1,8 @@
 author = Qelifern
 
-version = 0.15.5
+version = 1.3
 displayName = Swag Mod Remastered
-homepage = https://tmodloader.net/
+homepage = https://github.com/Qelifern/SwagModv2
 hideCode = false
 hideResources = false
 includeSource = true
